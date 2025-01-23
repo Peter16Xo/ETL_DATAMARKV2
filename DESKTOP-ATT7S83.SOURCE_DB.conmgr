@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-ATT7S83.SOURCE_DB"
+  DTS:DTSID="{161CFE20-5E52-472D-9B52-34787FF498C5}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-ATT7S83;Initial Catalog=SOURCE_DB;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_DATAMARKV2-{161CFE20-5E52-472D-9B52-34787FF498C5}DESKTOP-ATT7S83.SOURCE_DB;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
